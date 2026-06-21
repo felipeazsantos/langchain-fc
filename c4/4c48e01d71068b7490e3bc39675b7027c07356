@@ -1,0 +1,16 @@
+.gitignore
+  h_a12d55a28e40e6 1
+2-chains-e-processamentos/6-sumarizacao-map-reduce.py
+  h_a12d55a28e40e6 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c44c48e01d71068b7490e3bc39675b7027c07356",
+  "prompts": {},
+  "humans": {
+    "h_a12d55a28e40e6": {
+      "author": "felipeazsantos <felipeasantos10@hotmail.com>"
+    }
+  }
+}
