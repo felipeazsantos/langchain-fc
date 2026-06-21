@@ -1,0 +1,25 @@
+3-agents-e-tools/1-agente-react-e-tools.py
+  h_a12d55a28e40e6 1-65,67-69,72-89,93-95
+  s_deac3a798acbd9::t_950d7cd9520133 66,70-71,90-92,96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "c257f405e2e3fd69dd704ca868fa37179fb36f37",
+  "prompts": {},
+  "humans": {
+    "h_a12d55a28e40e6": {
+      "author": "felipeazsantos <felipeasantos10@hotmail.com>"
+    }
+  },
+  "sessions": {
+    "s_deac3a798acbd9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eec33-2136-78d2-b4a1-b717f270bfe9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "felipeazsantos <felipeasantos10@hotmail.com>"
+    }
+  }
+}
