@@ -57,7 +57,7 @@ prompt = PromptTemplate.from_template(
     Only use the information you get from the tools, even if you know the answer.
     If the information is not provided by the tools, say you don`t know.
     
-    {tools}
+    {tools} 
     
     Use the following format:
     Question: the input question you must answer
