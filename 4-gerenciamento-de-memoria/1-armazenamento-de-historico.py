@@ -32,3 +32,19 @@ conversational_chain = RunnableWithMessageHistory(
     input_messages_key="input",
     history_messages_key="history"
 )
+
+config = {"configurable": {"session_id": "my_session"}}
+
+# Interactions
+response1 = conversational_chain.invoke({"input": "Hello, my name is Felipe how are you?"}, config=config)
+print("Assistant:", response1.content)
+print("-"*30)
+
+response2 = conversational_chain.invoke({"input": "can you repeat my name?"}, config=config)
+print("Assistant:", response2.content)
+print("-"*30)
+
+response3 = conversational_chain.invoke({"input": "can you repeat my name in a motivation phrase?"}, config=config)
+print("Assistant:", response3.content)
+print("-"*30)
+
